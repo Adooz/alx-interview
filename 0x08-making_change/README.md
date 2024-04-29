@@ -49,4 +49,4 @@ carrie@ubuntu:~/0x08-making_change$
 
 ### Authors &copy;
 
-- Eyoul Shimeles
+- Kingsley Ndonake
